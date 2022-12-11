@@ -17,8 +17,8 @@ const PlayPage = () => {
               <div className="w-1/2 md:w-1/3 lg:w-3/12 my-3 flex items-center">
                 <Poster
                   isPlay={true}
-                  src="https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-suhani-shah-kahaani-india-tour-0-2022-8-29-t-12-36-14.jpg"
-                  title="suhani shah kahaani india tour"
+                  src="https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U2F0LCAxNyBEZWM%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00345520-ejhtnlauzg-portrait.jpg"
+                  title="Sander Van Doorn Live"
                   subtitle="Comedy Shows | Hindi, English | 16yrs + | 1hr 30mins"
                 />
               </div>

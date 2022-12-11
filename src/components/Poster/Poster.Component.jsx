@@ -28,7 +28,7 @@ const MoviePoster = (props) => {
 const PlayPoster = (props) => {
   return (
     <a
-      href="https://in.bookmyshow.com/events/so-rude-of-me-by-swati-sachdeva/ET00331405"
+      href="https://in.bookmyshow.com/events/sander-van-doorn-live-in-concert-at-prism/ET00345520"
       target="_blank"
       rel="noreferrer"
     >
