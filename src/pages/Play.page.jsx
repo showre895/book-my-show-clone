@@ -97,3 +97,5 @@ const PlayPage = () => {
 };
 
 export default DefaultLayoutHoc(PlayPage);
+
+
